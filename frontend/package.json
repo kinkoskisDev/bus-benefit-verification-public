@@ -1,0 +1,25 @@
+{
+  "name": "front-end-colaboradores",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.3",
+    "axios": "^1.8.4",
+    "front-end-colaboradores": "file:",
+    "sweetalert2": "^11.6.13",
+    "tailwindcss": "^4.1.3",
+    "vue": "^3.5.13",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vue3-json-excel": "^1.0.10-alpha"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.0"
+  }
+}
